@@ -7,5 +7,4 @@ Overviews:
 ![Screenshot 2024-06-27 133349](https://github.com/VZHAT31/challange-alif-penjualan-barang/assets/147531232/a81689f0-a57c-4804-919f-6c2a35ab9b65)
 Database:
 ![image](https://github.com/VZHAT31/challange-alif-penjualan-barang/assets/147531232/270d3a82-9ee8-4ddc-8d84-2c57a3c8bcb2)
-Data-In-Database:
 ![image](https://github.com/VZHAT31/challange-alif-penjualan-barang/assets/147531232/b6a3369d-060f-48da-8514-ad5711b1366f)
